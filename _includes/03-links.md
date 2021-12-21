@@ -1,2 +1,2 @@
 Replace this with a link to your a GitHub or social media profile.
-https://.github.com/https://lab.github.com/
+[Git hub]https://lab.github.com/
